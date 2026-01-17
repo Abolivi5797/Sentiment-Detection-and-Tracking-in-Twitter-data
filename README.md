@@ -1,8 +1,7 @@
+# Sentiment Detection and Tracking in Twitter Data Description:
 This repository contains the code, experiments, and documentation for the **Sentiment Detection and Tracking in Social Media Streams** project. The project uses **Twitter data** to develop a resilient system capable of identifying whether sentiments expressed in social media text are **positive, negative, or neutral**.
 
----
-
-## 🔍 Project Overview
+## Project Overview
 
 The objective of this project is to conduct a comprehensive comparative analysis of **traditional machine learning, deep learning, and state-of-the-art transformer models** on real-world Twitter data.
 
@@ -10,9 +9,7 @@ Given the informal, noisy, and dynamic nature of Twitter content, the project in
 
 Experiments are conducted on benchmark Twitter datasets to evaluate model performance across multiple sentiment classes. Through this comparative analysis, the project highlights the strengths and limitations of each approach and demonstrates how advanced transformer models such as **RoBERTa** can significantly improve sentiment classification accuracy when paired with effective preprocessing strategies.
 
----
-
-## ✨ Key Features
+## Key Features
 
 - **Data Preprocessing:**  
   Rigorous text cleaning including the removal of URLs, hashtags, mentions, and punctuation, along with tokenization, lowercase conversion, stop-word removal, and lemmatization to ensure data quality.
